@@ -1,0 +1,4 @@
+com/gonnect/k8s/backend/model/HelloResponse.class
+com/gonnect/k8s/backend/BackendApplication.class
+com/gonnect/k8s/backend/properties/BackendAppProperties.class
+com/gonnect/k8s/backend/controller/HelloController.class
