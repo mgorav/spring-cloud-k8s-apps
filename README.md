@@ -1,4 +1,4 @@
-# Run apps on Kubernetes with Spring Cloud Kubernetes
+# Run Spring Boot on Kubernetes with Spring Cloud Kubernetes
 
 
 This Github project demonstrates how to use [Spring Cloud Kubernetes](https://www.github.com/spring-cloud/spring-cloud-kubernetes) to execute a Spring Boot based app on Kubernetes. Spring Cloud K8s provides abstraction over K8s, as a result there is no K8s specific coding in the application code. This abstraction provides following capabilities:
